@@ -1,0 +1,12 @@
+White pawn#1265,26,182,237
+Black pawn#1265,291,182,237
+White knight#804,12,249,249
+Black knight#804,277,249,249
+White bishop#546,0,256,258
+Black bishop#546,266,256,258
+White rook#1052,27,212,234
+Black rook#1052,292,212,234
+White queen#260,0,286,267
+Black queen#260,269,286,267
+White king#1,5,259,261
+Black king#1,270,259,261
